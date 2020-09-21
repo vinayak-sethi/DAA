@@ -24,18 +24,18 @@ DAA course programs (C++)
 ``` 
          Discover three different logic for GCD(m,n), write iterative and recursive code
 ```
-#### Lab 2
+#### Lab 2 :
 ```
          1. Does there exist q and r in A such that p=q+r? (3 logics)            
          2. Identify the position of the first '-1' in array (3 logics)
          3. Print 5 patterns from given integer 'n
 ```
-#### Lab 3
+#### Lab 3 :
 ```
          1. Sort ternary array preserving stability (3 logics)
          2. Partition given integer array into two of equal size such that their respective sums are maximum.
 ```
-#### Lab 4
+#### Lab 4 :
 ```
          1. Given 'n' numbers, compute GCD using DC.   Similarly, LCD
          2. Count the number of 1's in a binary array using DC
@@ -43,7 +43,7 @@ DAA course programs (C++)
          4. Implement Towers of Hanoi.
          5. Implement 2-way, 3-way merge sort.    
 ```
-#### Lab 5
+#### Lab 5 :
 ```
    Input:   Sorted Arrays; A1,...Ak    Question:  Sort union of A_i 's
          1. Incremental Design   ;  Sort(A_1,A_2), A_3), A_4,...
@@ -53,7 +53,7 @@ DAA course programs (C++)
          5. Maintain a heap on k elements pointed by k pointers,  then extract MIN.
          6. Sorting 
 ```
-#### Lab 6
+#### Lab 6 :
 ```
          1. Primality check in O(nrootn).
          2. O((logn)^2) - own algo.
@@ -62,7 +62,8 @@ DAA course programs (C++)
          5. Find minimum and maximum in 2n-3 comparisons.
 ```
 #### Lab 7
-	 Make file Practice
+```
+         Make file Practice
 
 #### Lab 8
 ```
