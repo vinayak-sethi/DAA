@@ -61,11 +61,11 @@ DAA course programs (C++)
          4. Find minimum and maximum in 3n/2-2 comparisons
          5. Find minimum and maximum in 2n-3 comparisons.
 ```
-#### Lab 7
+#### Lab 7 :
 ```
          Make file Practice
 ```
-#### Lab 8
+#### Lab 8 :
 ```
        Module 1
 
