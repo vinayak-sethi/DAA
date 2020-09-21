@@ -1,7 +1,7 @@
 # DAA
 DAA course programs (C++)  
-**Lab7--->Elementary Graph**
-## Teams :
+**Lab8--->Elementary Graph**
+## Team Members:
         AKSHUN PRATAP DUBEY        - COE18B003  GITHUB Username  - akshundb  
         HRISHIKESH RAJESH MENON    - COE18B024  GITHUB Username  - RIESUBTYR  
         SAMARTH SUDARSHAN INAMDAR  - CED18I045  GITHUB Username  - samarth1612  
@@ -62,6 +62,9 @@ DAA course programs (C++)
          5. Find minimum and maximum in 2n-3 comparisons.
 ```
 #### Lab 7
+	 Make file Practice
+
+#### Lab 8
 ```
        Module 1
 
