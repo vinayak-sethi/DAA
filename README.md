@@ -64,7 +64,7 @@ DAA course programs (C++)
 #### Lab 7
 ```
          Make file Practice
-
+```
 #### Lab 8
 ```
        Module 1
