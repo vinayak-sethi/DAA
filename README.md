@@ -65,8 +65,6 @@ DAA course programs (C++)
 ```
          Make file Practice
 ```
-**Lab8--->Elementary Graph**
-
 #### Lab 8 :
 ```
        Module 1
@@ -97,6 +95,6 @@ DAA course programs (C++)
 
        Module 5
 
-        MST_Prim(Graph G)
-        MST_Kruskal(Graph G)
-        MST_youralgo(Graph G)
+          MST_Prim(Graph G)
+          MST_Kruskal(Graph G)
+          MST_youralgo(Graph G)
