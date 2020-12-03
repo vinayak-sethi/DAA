@@ -1,6 +1,6 @@
 # DAA
 DAA course programs (C++)  
-**Lab8--->Elementary Graph**
+
 ## Team Members:
         AKSHUN PRATAP DUBEY        - COE18B003  GITHUB Username  - akshundb  
         HRISHIKESH RAJESH MENON    - COE18B024  GITHUB Username  - RIESUBTYR  
@@ -65,6 +65,8 @@ DAA course programs (C++)
 ```
          Make file Practice
 ```
+**Lab8--->Elementary Graph**
+
 #### Lab 8 :
 ```
        Module 1
