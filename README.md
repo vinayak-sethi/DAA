@@ -1,5 +1,5 @@
 # DAA
-DAA course programs (C++)  
+This repository consists of the lab work done as a part of a course 'Object Oriented Algorithm Design and Analysis Practice (COM210P)'.
 
 ## Team Members:
         AKSHUN PRATAP DUBEY        - COE18B003  GITHUB Username  - akshundb  
